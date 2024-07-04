@@ -10,3 +10,9 @@ visit www.figma.com/
 create account
 drag and drop the developer-portfolio.fig
 Enjoy !!!
+
+
+Push:
+git add .
+git commit -m "new commit"
+git push
