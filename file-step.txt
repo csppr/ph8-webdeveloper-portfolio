@@ -1,0 +1,12 @@
+https://github.com/programminghero1/portfolio-resources 
+
+https://github.com/csppr/csppr
+
+Steps:
+open cmd
+cd \projects
+git clone https://github.com/ProgrammingHero1/portfolio-resources.git
+visit www.figma.com/
+create account
+drag and drop the developer-portfolio.fig
+Enjoy !!!
